@@ -89,5 +89,3 @@ An example of a Node.js application can be found in `./example-app` directory.
 | app_insights_app_type | Application insights application type                                                                               | string |        `"other"`        |    no    |
 | app_service_plan_tier | App service plan tier                                                                                               | string |      `"PremiumV2"`      |    no    |
 | app_service_plan_size | App service plan size                                                                                               | string |        `"P1v2"`         |    no    |
-
-Hello Uday iam from anantapur
